@@ -36,4 +36,5 @@
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/Nandhakumar018/Leetcode/tree/master/0520-detect-capital) |
+| [0742-to-lower-case](https://github.com/Nandhakumar018/Leetcode/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->
