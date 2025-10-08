@@ -32,4 +32,8 @@
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Nandhakumar018/Leetcode/tree/master/1086-divisor-game) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/Nandhakumar018/Leetcode/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
