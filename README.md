@@ -38,9 +38,14 @@
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/Nandhakumar018/Leetcode/tree/master/0520-detect-capital) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Nandhakumar018/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/Nandhakumar018/Leetcode/tree/master/0742-to-lower-case) |
 ## Sorting
 |  |
 | ------- |
 | [3321-type-of-triangle](https://github.com/Nandhakumar018/Leetcode/tree/master/3321-type-of-triangle) |
+## Two Pointers
+|  |
+| ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Nandhakumar018/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->
