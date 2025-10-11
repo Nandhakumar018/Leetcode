@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nandhakumar018/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nandhakumar018/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3321-type-of-triangle](https://github.com/Nandhakumar018/Leetcode/tree/master/3321-type-of-triangle) |
 ## Math
 |  |
@@ -48,4 +49,12 @@
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Nandhakumar018/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nandhakumar018/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Nandhakumar018/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
